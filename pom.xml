@@ -139,7 +139,7 @@
     <dependency>
       <groupId>com.google.auth</groupId>
       <artifactId>google-auth-library-oauth2-http</artifactId>
-      <version>0.6.0</version>
+      <version>0.13.0</version>
     </dependency>
     <dependency>
       <groupId>com.typesafe</groupId>
@@ -165,7 +165,7 @@
     <dependency>
       <groupId>org.eclipse.jgit</groupId>
       <artifactId>org.eclipse.jgit</artifactId>
-      <version>3.2.0.201312181205-r</version>
+      <version>4.7.0.201704051617-r</version>
     </dependency>
     <dependency>
       <groupId>org.apache.maven.plugin-testing</groupId>
